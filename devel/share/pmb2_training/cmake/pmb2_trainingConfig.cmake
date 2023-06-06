@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/pmb2_training/share/pmb2_training/cmake/pmb2_trainingConfig.cmake

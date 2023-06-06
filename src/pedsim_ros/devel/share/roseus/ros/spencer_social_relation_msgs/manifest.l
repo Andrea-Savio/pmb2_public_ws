@@ -1,0 +1,1 @@
+/home/andrea/pedsim_ros/devel/.private/spencer_social_relation_msgs/share/roseus/ros/spencer_social_relation_msgs/manifest.l

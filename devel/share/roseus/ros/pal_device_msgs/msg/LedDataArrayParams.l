@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/pal_device_msgs/share/roseus/ros/pal_device_msgs/msg/LedDataArrayParams.l

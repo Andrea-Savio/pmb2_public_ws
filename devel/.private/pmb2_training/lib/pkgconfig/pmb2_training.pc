@@ -1,0 +1,8 @@
+prefix=/home/andrea/pmb2_public_ws/devel/.private/pmb2_training
+
+Name: pmb2_training
+Description: Description of pmb2_training
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+pedsim_ros/pedsim_sensors
+/home/andrea/pedsim_ros/devel/.private/pedsim_sensors/cmake.lock /home/andrea/pedsim_ros/devel/./cmake.lock
+/home/andrea/pedsim_ros/devel/.private/pedsim_sensors/lib/pedsim_sensors/pedsim_occlusion_sensor /home/andrea/pedsim_ros/devel/lib/pedsim_sensors/pedsim_occlusion_sensor
+/home/andrea/pedsim_ros/devel/.private/pedsim_sensors/lib/pedsim_sensors/pedsim_people_sensor /home/andrea/pedsim_ros/devel/lib/pedsim_sensors/pedsim_people_sensor
+/home/andrea/pedsim_ros/devel/.private/pedsim_sensors/lib/pedsim_sensors/pedsim_obstacle_sensor /home/andrea/pedsim_ros/devel/lib/pedsim_sensors/pedsim_obstacle_sensor
+/home/andrea/pedsim_ros/devel/.private/pedsim_sensors/lib/pkgconfig/pedsim_sensors.pc /home/andrea/pedsim_ros/devel/lib/pkgconfig/pedsim_sensors.pc
+/home/andrea/pedsim_ros/devel/.private/pedsim_sensors/share/pedsim_sensors/cmake/pedsim_sensorsConfig-version.cmake /home/andrea/pedsim_ros/devel/share/pedsim_sensors/cmake/pedsim_sensorsConfig-version.cmake
+/home/andrea/pedsim_ros/devel/.private/pedsim_sensors/share/pedsim_sensors/cmake/pedsim_sensorsConfig.cmake /home/andrea/pedsim_ros/devel/share/pedsim_sensors/cmake/pedsim_sensorsConfig.cmake

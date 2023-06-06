@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/aws_robomaker_small_house_world/share/aws_robomaker_small_house_world/cmake/aws_robomaker_small_house_worldConfig.cmake

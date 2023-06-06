@@ -1,0 +1,1 @@
+/home/andrea/pedsim_ros/devel/.private/pedsim_gazebo_plugin/share/pedsim_gazebo_plugin/cmake/pedsim_gazebo_pluginConfig.cmake

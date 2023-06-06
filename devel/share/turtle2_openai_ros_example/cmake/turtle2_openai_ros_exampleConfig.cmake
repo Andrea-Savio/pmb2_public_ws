@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/turtle2_openai_ros_example/share/turtle2_openai_ros_example/cmake/turtle2_openai_ros_exampleConfig.cmake

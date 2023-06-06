@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/my_pmb2_training/lib/pkgconfig/my_pmb2_training.pc

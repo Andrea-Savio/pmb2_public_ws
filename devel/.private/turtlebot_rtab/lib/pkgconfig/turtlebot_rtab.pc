@@ -1,0 +1,8 @@
+prefix=/home/andrea/pmb2_public_ws/devel/.private/turtlebot_rtab
+
+Name: turtlebot_rtab
+Description: Description of turtlebot_rtab
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

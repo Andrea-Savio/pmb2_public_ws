@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/my_sumitxl_openai_example/share/my_sumitxl_openai_example/cmake/my_sumitxl_openai_exampleConfig-version.cmake

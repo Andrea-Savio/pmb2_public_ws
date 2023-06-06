@@ -1,0 +1,5 @@
+aws-robomaker-bookstore-world
+/home/andrea/pmb2_public_ws/devel/.private/aws_robomaker_bookstore_world/cmake.lock /home/andrea/pmb2_public_ws/devel/./cmake.lock
+/home/andrea/pmb2_public_ws/devel/.private/aws_robomaker_bookstore_world/lib/pkgconfig/aws_robomaker_bookstore_world.pc /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/aws_robomaker_bookstore_world.pc
+/home/andrea/pmb2_public_ws/devel/.private/aws_robomaker_bookstore_world/share/aws_robomaker_bookstore_world/cmake/aws_robomaker_bookstore_worldConfig-version.cmake /home/andrea/pmb2_public_ws/devel/share/aws_robomaker_bookstore_world/cmake/aws_robomaker_bookstore_worldConfig-version.cmake
+/home/andrea/pmb2_public_ws/devel/.private/aws_robomaker_bookstore_world/share/aws_robomaker_bookstore_world/cmake/aws_robomaker_bookstore_worldConfig.cmake /home/andrea/pmb2_public_ws/devel/share/aws_robomaker_bookstore_world/cmake/aws_robomaker_bookstore_worldConfig.cmake

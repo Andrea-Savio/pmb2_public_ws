@@ -1,0 +1,63 @@
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/simulator.cpp:[m[K In member function ‘[01m[Kvoid Simulator::reconfigureCB(pedsim_simulator::PedsimSimulatorConfig&, uint32_t)[m[K’:
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/simulator.cpp:169:40:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Klevel[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+                               uint32_t [01;35m[Klevel[m[K) {
+                                        [01;35m[K^~~~~[m[K
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/simulator.cpp:[m[K In member function ‘[01m[Kbool Simulator::onPauseSimulation(std_srvs::Empty::Request&, std_srvs::Empty::Response&)[m[K’:
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/simulator.cpp:193:61:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+ bool Simulator::onPauseSimulation(std_srvs::Empty::Request& [01;35m[Krequest[m[K,
+                                                             [01;35m[K^~~~~~~[m[K
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/simulator.cpp:194:62:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresponse[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+                                   std_srvs::Empty::Response& [01;35m[Kresponse[m[K) {
+                                                              [01;35m[K^~~~~~~~[m[K
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/simulator.cpp:[m[K In member function ‘[01m[Kbool Simulator::onUnpauseSimulation(std_srvs::Empty::Request&, std_srvs::Empty::Response&)[m[K’:
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/simulator.cpp:199:63:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Krequest[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+ bool Simulator::onUnpauseSimulation(std_srvs::Empty::Request& [01;35m[Krequest[m[K,
+                                                               [01;35m[K^~~~~~~[m[K
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/simulator.cpp:200:64:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresponse[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+                                     std_srvs::Empty::Response& [01;35m[Kresponse[m[K) {
+                                                                [01;35m[K^~~~~~~~[m[K
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/simulator.cpp:[m[K In member function ‘[01m[Kvoid Simulator::spawnCallback(const ros::TimerEvent&)[m[K’:
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/simulator.cpp:205:54:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kevent[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+ void Simulator::spawnCallback(const ros::TimerEvent& [01;35m[Kevent[m[K) {
+                                                      [01;35m[K^~~~~[m[K
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/scene.cpp:[m[K In constructor ‘[01m[KScene::Scene(QObject*)[m[K’:
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/scene.cpp:54:23:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kparent[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+ Scene::Scene(QObject* [01;35m[Kparent[m[K) {
+                       [01;35m[K^~~~~~[m[K
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/config.cpp:[m[K In constructor ‘[01m[KConfig::Config(QObject*)[m[K’:
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/config.cpp:37:25:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kparent[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+ Config::Config(QObject* [01;35m[Kparent[m[K) {
+                         [01;35m[K^~~~~~[m[K
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/element/agentgroup.cpp:[m[K In member function ‘[01m[Kvoid AgentGroup::onPositionChanged(double, double)[m[K’:
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/element/agentgroup.cpp:100:43:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kx[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+ void AgentGroup::onPositionChanged(double [01;35m[Kx[m[K, double y) {
+                                           [01;35m[K^[m[K
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/element/agentgroup.cpp:100:53:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ky[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+ void AgentGroup::onPositionChanged(double x, double [01;35m[Ky[m[K) {
+                                                     [01;35m[K^[m[K
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/element/queueingwaypoint.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector QueueingWaypoint::closestPoint(const Ped::Tvector&, bool*) const[m[K’:
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/element/queueingwaypoint.cpp:82:65:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KposIn[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+ Ped::Tvector QueueingWaypoint::closestPoint(const Ped::Tvector& [01;35m[KposIn[m[K,
+                                                                 [01;35m[K^~~~~[m[K
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/element/queueingwaypoint.cpp:83:51:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwithinWaypoint[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+                                             bool* [01;35m[KwithinWaypoint[m[K) const {
+                                                   [01;35m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/element/waitingqueue.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector WaitingQueue::closestPoint(const Ped::Tvector&, bool*) const[m[K’:
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/element/waitingqueue.cpp:234:61:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kp[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+ Ped::Tvector WaitingQueue::closestPoint(const Ped::Tvector& [01;35m[Kp[m[K,
+                                                             [01;35m[K^[m[K
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/element/waitingqueue.cpp:235:47:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwithinWaypoint[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+                                         bool* [01;35m[KwithinWaypoint[m[K) const {
+                                               [01;35m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/force/groupcoherenceforce.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector GroupCoherenceForce::getForce(Ped::Tvector)[m[K’:
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/force/groupcoherenceforce.cpp:56:57:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwalkingDirection[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+ Ped::Tvector GroupCoherenceForce::getForce(Ped::Tvector [01;35m[KwalkingDirection[m[K) {
+                                                         [01;35m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/force/grouprepulsionforce.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector GroupRepulsionForce::getForce(Ped::Tvector)[m[K’:
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/force/grouprepulsionforce.cpp:56:57:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwalkingDirection[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+ Ped::Tvector GroupRepulsionForce::getForce(Ped::Tvector [01;35m[KwalkingDirection[m[K) {
+                                                         [01;35m[K^~~~~~~~~~~~~~~~[m[K
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/force/randomforce.cpp:[m[K In member function ‘[01m[Kvirtual Ped::Tvector RandomForce::getForce(Ped::Tvector)[m[K’:
+[01m[K/home/andrea/pmb2_public_ws/src/pedsim_ros/src/pedsim_ros/pedsim_simulator/src/force/randomforce.cpp:77:49:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KwalkingDirection[m[K’ [[01;35m[K-Wunused-parameter[m[K]
+ Ped::Tvector RandomForce::getForce(Ped::Tvector [01;35m[KwalkingDirection[m[K) {
+                                                 [01;35m[K^~~~~~~~~~~~~~~~[m[K

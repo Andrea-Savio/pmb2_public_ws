@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/husarion_openai_ros_example/share/husarion_openai_ros_example/cmake/husarion_openai_ros_exampleConfig.cmake

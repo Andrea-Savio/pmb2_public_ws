@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/multiple_kobukis/lib/pkgconfig/multiple_kobukis.pc

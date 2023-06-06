@@ -1,0 +1,9 @@
+xacro
+/home/andrea/pmb2_public_ws/devel/.private/xacro/cmake.lock /home/andrea/pmb2_public_ws/devel/./cmake.lock
+/home/andrea/pmb2_public_ws/devel/.private/xacro/lib/python2.7/dist-packages/xacro/__init__.py /home/andrea/pmb2_public_ws/devel/lib/python2.7/dist-packages/xacro/__init__.py
+/home/andrea/pmb2_public_ws/devel/.private/xacro/lib/pkgconfig/xacro.pc /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/xacro.pc
+/home/andrea/pmb2_public_ws/devel/.private/xacro/bin/cmake.lock /home/andrea/pmb2_public_ws/devel/bin/cmake.lock
+/home/andrea/pmb2_public_ws/devel/.private/xacro/bin/xacro /home/andrea/pmb2_public_ws/devel/bin/xacro
+/home/andrea/pmb2_public_ws/devel/.private/xacro/share/xacro/cmake/xacro-extras.cmake /home/andrea/pmb2_public_ws/devel/share/xacro/cmake/xacro-extras.cmake
+/home/andrea/pmb2_public_ws/devel/.private/xacro/share/xacro/cmake/xacroConfig-version.cmake /home/andrea/pmb2_public_ws/devel/share/xacro/cmake/xacroConfig-version.cmake
+/home/andrea/pmb2_public_ws/devel/.private/xacro/share/xacro/cmake/xacroConfig.cmake /home/andrea/pmb2_public_ws/devel/share/xacro/cmake/xacroConfig.cmake

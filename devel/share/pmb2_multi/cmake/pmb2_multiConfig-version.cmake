@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/pmb2_multi/share/pmb2_multi/cmake/pmb2_multiConfig-version.cmake

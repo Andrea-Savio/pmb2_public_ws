@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/pmb2_openai_ros_example/share/pmb2_openai_ros_example/cmake/pmb2_openai_ros_exampleConfig.cmake

@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/openai_ros/share/roseus/ros/openai_ros/manifest.l

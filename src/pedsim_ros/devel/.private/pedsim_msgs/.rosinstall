@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/andrea/pedsim_ros/devel/.private/pedsim_msgs/setup.sh

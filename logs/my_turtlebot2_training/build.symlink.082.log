@@ -1,0 +1,9 @@
+Warning: Cannot symlink from /home/andrea/pmb2_public_ws/devel/.private/my_turtlebot2_training/lib/pkgconfig/pmb2_training.pc to existing file /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/pmb2_training.pc
+Warning: Source hash: f69c87315439d7c9df83d50129e2f016
+Warning: Dest hash: 9c06d7941708521771e1f93c3c641b4a
+Linked: (/home/andrea/pmb2_public_ws/devel/.private/my_turtlebot2_training/lib/pkgconfig/my_turtlebot2_training.pc, /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/my_turtlebot2_training.pc)
+Warning: Cannot symlink from /home/andrea/pmb2_public_ws/devel/.private/my_turtlebot2_training/share/pmb2_training/cmake/pmb2_trainingConfig.cmake to existing file /home/andrea/pmb2_public_ws/devel/share/pmb2_training/cmake/pmb2_trainingConfig.cmake
+Warning: Source hash: 935eaae8b823f5668bfc21b5900e0242
+Warning: Dest hash: 8e0bf75eb77193347f453539a1581c5a
+Linked: (/home/andrea/pmb2_public_ws/devel/.private/my_turtlebot2_training/share/my_turtlebot2_training/cmake/my_turtlebot2_trainingConfig-version.cmake, /home/andrea/pmb2_public_ws/devel/share/my_turtlebot2_training/cmake/my_turtlebot2_trainingConfig-version.cmake)
+Linked: (/home/andrea/pmb2_public_ws/devel/.private/my_turtlebot2_training/share/my_turtlebot2_training/cmake/my_turtlebot2_trainingConfig.cmake, /home/andrea/pmb2_public_ws/devel/share/my_turtlebot2_training/cmake/my_turtlebot2_trainingConfig.cmake)

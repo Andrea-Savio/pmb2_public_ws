@@ -1,0 +1,13 @@
+ros_controllers/diff_drive_controller
+/home/andrea/pmb2_public_ws/devel/.private/diff_drive_controller/cmake.lock /home/andrea/pmb2_public_ws/devel/./cmake.lock
+/home/andrea/pmb2_public_ws/devel/.private/diff_drive_controller/include/diff_drive_controller/DiffDriveControllerConfig.h /home/andrea/pmb2_public_ws/devel/include/diff_drive_controller/DiffDriveControllerConfig.h
+/home/andrea/pmb2_public_ws/devel/.private/diff_drive_controller/lib/libdiff_drive_controller.so /home/andrea/pmb2_public_ws/devel/lib/libdiff_drive_controller.so
+/home/andrea/pmb2_public_ws/devel/.private/diff_drive_controller/lib/python2.7/dist-packages/diff_drive_controller/__init__.py /home/andrea/pmb2_public_ws/devel/lib/python2.7/dist-packages/diff_drive_controller/__init__.py
+/home/andrea/pmb2_public_ws/devel/.private/diff_drive_controller/lib/python2.7/dist-packages/diff_drive_controller/cfg/DiffDriveControllerConfig.py /home/andrea/pmb2_public_ws/devel/lib/python2.7/dist-packages/diff_drive_controller/cfg/DiffDriveControllerConfig.py
+/home/andrea/pmb2_public_ws/devel/.private/diff_drive_controller/lib/python2.7/dist-packages/diff_drive_controller/cfg/__init__.py /home/andrea/pmb2_public_ws/devel/lib/python2.7/dist-packages/diff_drive_controller/cfg/__init__.py
+/home/andrea/pmb2_public_ws/devel/.private/diff_drive_controller/lib/pkgconfig/diff_drive_controller.pc /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/diff_drive_controller.pc
+/home/andrea/pmb2_public_ws/devel/.private/diff_drive_controller/share/diff_drive_controller/docs/DiffDriveControllerConfig.dox /home/andrea/pmb2_public_ws/devel/share/diff_drive_controller/docs/DiffDriveControllerConfig.dox
+/home/andrea/pmb2_public_ws/devel/.private/diff_drive_controller/share/diff_drive_controller/docs/DiffDriveControllerConfig.wikidoc /home/andrea/pmb2_public_ws/devel/share/diff_drive_controller/docs/DiffDriveControllerConfig.wikidoc
+/home/andrea/pmb2_public_ws/devel/.private/diff_drive_controller/share/diff_drive_controller/docs/DiffDriveControllerConfig-usage.dox /home/andrea/pmb2_public_ws/devel/share/diff_drive_controller/docs/DiffDriveControllerConfig-usage.dox
+/home/andrea/pmb2_public_ws/devel/.private/diff_drive_controller/share/diff_drive_controller/cmake/diff_drive_controllerConfig-version.cmake /home/andrea/pmb2_public_ws/devel/share/diff_drive_controller/cmake/diff_drive_controllerConfig-version.cmake
+/home/andrea/pmb2_public_ws/devel/.private/diff_drive_controller/share/diff_drive_controller/cmake/diff_drive_controllerConfig.cmake /home/andrea/pmb2_public_ws/devel/share/diff_drive_controller/cmake/diff_drive_controllerConfig.cmake

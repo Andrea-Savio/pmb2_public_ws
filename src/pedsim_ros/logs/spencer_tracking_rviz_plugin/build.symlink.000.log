@@ -1,0 +1,4 @@
+Symlinking /home/andrea/pedsim_ros/devel/lib/libspencer_tracking_rviz_plugin.so
+Symlinking /home/andrea/pedsim_ros/devel/lib/pkgconfig/spencer_tracking_rviz_plugin.pc
+Symlinking /home/andrea/pedsim_ros/devel/share/spencer_tracking_rviz_plugin/cmake/spencer_tracking_rviz_pluginConfig.cmake
+Symlinking /home/andrea/pedsim_ros/devel/share/spencer_tracking_rviz_plugin/cmake/spencer_tracking_rviz_pluginConfig-version.cmake

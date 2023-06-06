@@ -1,0 +1,5 @@
+turtlebot/multiple_kobukis
+/home/andrea/pmb2_public_ws/devel/.private/multiple_kobukis/cmake.lock /home/andrea/pmb2_public_ws/devel/./cmake.lock
+/home/andrea/pmb2_public_ws/devel/.private/multiple_kobukis/lib/pkgconfig/multiple_kobukis.pc /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/multiple_kobukis.pc
+/home/andrea/pmb2_public_ws/devel/.private/multiple_kobukis/share/multiple_kobukis/cmake/multiple_kobukisConfig.cmake /home/andrea/pmb2_public_ws/devel/share/multiple_kobukis/cmake/multiple_kobukisConfig.cmake
+/home/andrea/pmb2_public_ws/devel/.private/multiple_kobukis/share/multiple_kobukis/cmake/multiple_kobukisConfig-version.cmake /home/andrea/pmb2_public_ws/devel/share/multiple_kobukis/cmake/multiple_kobukisConfig-version.cmake

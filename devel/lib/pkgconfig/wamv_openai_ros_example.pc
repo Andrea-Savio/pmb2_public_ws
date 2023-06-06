@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/wamv_openai_ros_example/lib/pkgconfig/wamv_openai_ros_example.pc

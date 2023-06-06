@@ -1,0 +1,13 @@
+navigation_layers/social_navigation_layers
+/home/andrea/pmb2_public_ws/devel/.private/social_navigation_layers/cmake.lock /home/andrea/pmb2_public_ws/devel/./cmake.lock
+/home/andrea/pmb2_public_ws/devel/.private/social_navigation_layers/include/social_navigation_layers/ProxemicLayerConfig.h /home/andrea/pmb2_public_ws/devel/include/social_navigation_layers/ProxemicLayerConfig.h
+/home/andrea/pmb2_public_ws/devel/.private/social_navigation_layers/lib/libsocial_layers.so /home/andrea/pmb2_public_ws/devel/lib/libsocial_layers.so
+/home/andrea/pmb2_public_ws/devel/.private/social_navigation_layers/lib/python2.7/dist-packages/social_navigation_layers/__init__.py /home/andrea/pmb2_public_ws/devel/lib/python2.7/dist-packages/social_navigation_layers/__init__.py
+/home/andrea/pmb2_public_ws/devel/.private/social_navigation_layers/lib/python2.7/dist-packages/social_navigation_layers/cfg/__init__.py /home/andrea/pmb2_public_ws/devel/lib/python2.7/dist-packages/social_navigation_layers/cfg/__init__.py
+/home/andrea/pmb2_public_ws/devel/.private/social_navigation_layers/lib/python2.7/dist-packages/social_navigation_layers/cfg/ProxemicLayerConfig.py /home/andrea/pmb2_public_ws/devel/lib/python2.7/dist-packages/social_navigation_layers/cfg/ProxemicLayerConfig.py
+/home/andrea/pmb2_public_ws/devel/.private/social_navigation_layers/lib/pkgconfig/social_navigation_layers.pc /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/social_navigation_layers.pc
+/home/andrea/pmb2_public_ws/devel/.private/social_navigation_layers/share/social_navigation_layers/docs/ProxemicLayerConfig.wikidoc /home/andrea/pmb2_public_ws/devel/share/social_navigation_layers/docs/ProxemicLayerConfig.wikidoc
+/home/andrea/pmb2_public_ws/devel/.private/social_navigation_layers/share/social_navigation_layers/docs/ProxemicLayerConfig.dox /home/andrea/pmb2_public_ws/devel/share/social_navigation_layers/docs/ProxemicLayerConfig.dox
+/home/andrea/pmb2_public_ws/devel/.private/social_navigation_layers/share/social_navigation_layers/docs/ProxemicLayerConfig-usage.dox /home/andrea/pmb2_public_ws/devel/share/social_navigation_layers/docs/ProxemicLayerConfig-usage.dox
+/home/andrea/pmb2_public_ws/devel/.private/social_navigation_layers/share/social_navigation_layers/cmake/social_navigation_layersConfig-version.cmake /home/andrea/pmb2_public_ws/devel/share/social_navigation_layers/cmake/social_navigation_layersConfig-version.cmake
+/home/andrea/pmb2_public_ws/devel/.private/social_navigation_layers/share/social_navigation_layers/cmake/social_navigation_layersConfig.cmake /home/andrea/pmb2_public_ws/devel/share/social_navigation_layers/cmake/social_navigation_layersConfig.cmake

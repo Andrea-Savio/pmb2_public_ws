@@ -1,0 +1,1 @@
+/home/andrea/pedsim_ros/devel/.private/spencer_tracking_rviz_plugin/share/spencer_tracking_rviz_plugin/cmake/spencer_tracking_rviz_pluginConfig.cmake

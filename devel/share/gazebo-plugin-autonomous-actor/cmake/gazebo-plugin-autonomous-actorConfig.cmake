@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/gazebo-plugin-autonomous-actor/share/gazebo-plugin-autonomous-actor/cmake/gazebo-plugin-autonomous-actorConfig.cmake

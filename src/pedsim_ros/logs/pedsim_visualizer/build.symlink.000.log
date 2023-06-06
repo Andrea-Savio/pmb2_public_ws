@@ -1,0 +1,11 @@
+Symlinking /home/andrea/pedsim_ros/devel/include/pedsim_visualizer/PedsimVisualizerConfig.h
+Symlinking /home/andrea/pedsim_ros/devel/lib/pedsim_visualizer/pedsim_visualizer_node
+Symlinking /home/andrea/pedsim_ros/devel/lib/python2.7/dist-packages/pedsim_visualizer/__init__.py
+Symlinking /home/andrea/pedsim_ros/devel/lib/python2.7/dist-packages/pedsim_visualizer/cfg/PedsimVisualizerConfig.py
+Symlinking /home/andrea/pedsim_ros/devel/lib/python2.7/dist-packages/pedsim_visualizer/cfg/__init__.py
+Symlinking /home/andrea/pedsim_ros/devel/lib/pkgconfig/pedsim_visualizer.pc
+Symlinking /home/andrea/pedsim_ros/devel/share/pedsim_visualizer/docs/PedsimVisualizerConfig.wikidoc
+Symlinking /home/andrea/pedsim_ros/devel/share/pedsim_visualizer/docs/PedsimVisualizerConfig.dox
+Symlinking /home/andrea/pedsim_ros/devel/share/pedsim_visualizer/docs/PedsimVisualizerConfig-usage.dox
+Symlinking /home/andrea/pedsim_ros/devel/share/pedsim_visualizer/cmake/pedsim_visualizerConfig.cmake
+Symlinking /home/andrea/pedsim_ros/devel/share/pedsim_visualizer/cmake/pedsim_visualizerConfig-version.cmake

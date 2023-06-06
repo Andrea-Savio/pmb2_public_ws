@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/turtlebot_project/lib/pkgconfig/turtlebot_project.pc

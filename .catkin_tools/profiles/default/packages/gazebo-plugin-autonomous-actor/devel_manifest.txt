@@ -1,0 +1,10 @@
+gazebo-plugin-autonomous-actor
+/home/andrea/pmb2_public_ws/devel/.private/gazebo-plugin-autonomous-actor/cmake.lock /home/andrea/pmb2_public_ws/devel/./cmake.lock
+/home/andrea/pmb2_public_ws/devel/.private/gazebo-plugin-autonomous-actor/lib/libAutonomousActorPlugin.so /home/andrea/pmb2_public_ws/devel/lib/libAutonomousActorPlugin.so
+/home/andrea/pmb2_public_ws/devel/.private/gazebo-plugin-autonomous-actor/lib/libAttachModelPlugin.so /home/andrea/pmb2_public_ws/devel/lib/libAttachModelPlugin.so
+/home/andrea/pmb2_public_ws/devel/.private/gazebo-plugin-autonomous-actor/lib/libAutonomousActorPluginDebug.so /home/andrea/pmb2_public_ws/devel/lib/libAutonomousActorPluginDebug.so
+/home/andrea/pmb2_public_ws/devel/.private/gazebo-plugin-autonomous-actor/lib/libCollisionActorPlugin.so /home/andrea/pmb2_public_ws/devel/lib/libCollisionActorPlugin.so
+/home/andrea/pmb2_public_ws/devel/.private/gazebo-plugin-autonomous-actor/lib/libCollisionActorPluginDebug.so /home/andrea/pmb2_public_ws/devel/lib/libCollisionActorPluginDebug.so
+/home/andrea/pmb2_public_ws/devel/.private/gazebo-plugin-autonomous-actor/lib/pkgconfig/gazebo-plugin-autonomous-actor.pc /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/gazebo-plugin-autonomous-actor.pc
+/home/andrea/pmb2_public_ws/devel/.private/gazebo-plugin-autonomous-actor/share/gazebo-plugin-autonomous-actor/cmake/gazebo-plugin-autonomous-actorConfig.cmake /home/andrea/pmb2_public_ws/devel/share/gazebo-plugin-autonomous-actor/cmake/gazebo-plugin-autonomous-actorConfig.cmake
+/home/andrea/pmb2_public_ws/devel/.private/gazebo-plugin-autonomous-actor/share/gazebo-plugin-autonomous-actor/cmake/gazebo-plugin-autonomous-actorConfig-version.cmake /home/andrea/pmb2_public_ws/devel/share/gazebo-plugin-autonomous-actor/cmake/gazebo-plugin-autonomous-actorConfig-version.cmake

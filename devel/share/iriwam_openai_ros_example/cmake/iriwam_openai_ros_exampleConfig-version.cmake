@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/iriwam_openai_ros_example/share/iriwam_openai_ros_example/cmake/iriwam_openai_ros_exampleConfig-version.cmake

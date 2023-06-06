@@ -1,0 +1,5 @@
+openai_examples_projects/wamv_openai_ros_example
+/home/andrea/pmb2_public_ws/devel/.private/wamv_openai_ros_example/cmake.lock /home/andrea/pmb2_public_ws/devel/./cmake.lock
+/home/andrea/pmb2_public_ws/devel/.private/wamv_openai_ros_example/lib/pkgconfig/wamv_openai_ros_example.pc /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/wamv_openai_ros_example.pc
+/home/andrea/pmb2_public_ws/devel/.private/wamv_openai_ros_example/share/wamv_openai_ros_example/cmake/wamv_openai_ros_exampleConfig.cmake /home/andrea/pmb2_public_ws/devel/share/wamv_openai_ros_example/cmake/wamv_openai_ros_exampleConfig.cmake
+/home/andrea/pmb2_public_ws/devel/.private/wamv_openai_ros_example/share/wamv_openai_ros_example/cmake/wamv_openai_ros_exampleConfig-version.cmake /home/andrea/pmb2_public_ws/devel/share/wamv_openai_ros_example/cmake/wamv_openai_ros_exampleConfig-version.cmake

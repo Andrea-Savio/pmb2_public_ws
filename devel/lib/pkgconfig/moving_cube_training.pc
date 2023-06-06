@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/moving_cube_training/lib/pkgconfig/moving_cube_training.pc

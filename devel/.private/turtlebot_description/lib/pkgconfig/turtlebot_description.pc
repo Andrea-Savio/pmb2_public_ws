@@ -1,0 +1,8 @@
+prefix=/home/andrea/pmb2_public_ws/devel/.private/turtlebot_description
+
+Name: turtlebot_description
+Description: Description of turtlebot_description
+Version: 2.3.11
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: urdf xacro

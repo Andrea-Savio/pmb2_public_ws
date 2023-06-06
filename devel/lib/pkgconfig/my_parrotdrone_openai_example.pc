@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/my_parrotdrone_openai_example/lib/pkgconfig/my_parrotdrone_openai_example.pc

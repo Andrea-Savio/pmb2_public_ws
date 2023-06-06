@@ -1,0 +1,8 @@
+prefix=/home/andrea/pmb2_public_ws/devel/.private/my_sawyer_openai_example
+
+Name: my_sawyer_openai_example
+Description: Description of my_sawyer_openai_example
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

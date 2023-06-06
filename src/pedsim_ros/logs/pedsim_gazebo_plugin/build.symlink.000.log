@@ -1,0 +1,4 @@
+Symlinking /home/andrea/pedsim_ros/devel/lib/libActorPosesPlugin.so
+Symlinking /home/andrea/pedsim_ros/devel/lib/pkgconfig/pedsim_gazebo_plugin.pc
+Symlinking /home/andrea/pedsim_ros/devel/share/pedsim_gazebo_plugin/cmake/pedsim_gazebo_pluginConfig-version.cmake
+Symlinking /home/andrea/pedsim_ros/devel/share/pedsim_gazebo_plugin/cmake/pedsim_gazebo_pluginConfig.cmake

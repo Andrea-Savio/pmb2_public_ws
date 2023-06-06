@@ -1,0 +1,6 @@
+pedsim_ros/src/pedsim_ros/pedsim_gazebo_plugin
+/home/andrea/pmb2_public_ws/devel/.private/pedsim_gazebo_plugin/cmake.lock /home/andrea/pmb2_public_ws/devel/./cmake.lock
+/home/andrea/pmb2_public_ws/devel/.private/pedsim_gazebo_plugin/lib/libActorPosesPlugin.so /home/andrea/pmb2_public_ws/devel/lib/libActorPosesPlugin.so
+/home/andrea/pmb2_public_ws/devel/.private/pedsim_gazebo_plugin/lib/pkgconfig/pedsim_gazebo_plugin.pc /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/pedsim_gazebo_plugin.pc
+/home/andrea/pmb2_public_ws/devel/.private/pedsim_gazebo_plugin/share/pedsim_gazebo_plugin/cmake/pedsim_gazebo_pluginConfig-version.cmake /home/andrea/pmb2_public_ws/devel/share/pedsim_gazebo_plugin/cmake/pedsim_gazebo_pluginConfig-version.cmake
+/home/andrea/pmb2_public_ws/devel/.private/pedsim_gazebo_plugin/share/pedsim_gazebo_plugin/cmake/pedsim_gazebo_pluginConfig.cmake /home/andrea/pmb2_public_ws/devel/share/pedsim_gazebo_plugin/cmake/pedsim_gazebo_pluginConfig.cmake

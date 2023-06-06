@@ -1,0 +1,5 @@
+openai_examples_projects/pmb2_openai_ros_example
+/home/andrea/pmb2_public_ws/devel/.private/pmb2_openai_ros_example/cmake.lock /home/andrea/pmb2_public_ws/devel/./cmake.lock
+/home/andrea/pmb2_public_ws/devel/.private/pmb2_openai_ros_example/lib/pkgconfig/pmb2_openai_ros_example.pc /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/pmb2_openai_ros_example.pc
+/home/andrea/pmb2_public_ws/devel/.private/pmb2_openai_ros_example/share/pmb2_openai_ros_example/cmake/pmb2_openai_ros_exampleConfig.cmake /home/andrea/pmb2_public_ws/devel/share/pmb2_openai_ros_example/cmake/pmb2_openai_ros_exampleConfig.cmake
+/home/andrea/pmb2_public_ws/devel/.private/pmb2_openai_ros_example/share/pmb2_openai_ros_example/cmake/pmb2_openai_ros_exampleConfig-version.cmake /home/andrea/pmb2_public_ws/devel/share/pmb2_openai_ros_example/cmake/pmb2_openai_ros_exampleConfig-version.cmake

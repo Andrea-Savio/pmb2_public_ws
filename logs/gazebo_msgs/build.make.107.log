@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/opt/ros/melodic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py", line 41, in <module>
+    from genmsg import EXT_MSG, EXT_SRV, MsgContext
+ImportError: No module named genmsg
+CMakeFiles/_gazebo_msgs_generate_messages_check_deps_GetModelProperties.dir/build.make:57: recipe for target 'CMakeFiles/_gazebo_msgs_generate_messages_check_deps_GetModelProperties' failed
+make[2]: *** [CMakeFiles/_gazebo_msgs_generate_messages_check_deps_GetModelProperties] Error 1
+CMakeFiles/Makefile2:620: recipe for target 'CMakeFiles/_gazebo_msgs_generate_messages_check_deps_GetModelProperties.dir/all' failed
+make[1]: *** [CMakeFiles/_gazebo_msgs_generate_messages_check_deps_GetModelProperties.dir/all] Error 2
+Makefile:129: recipe for target 'all' failed
+make: *** [all] Error 2

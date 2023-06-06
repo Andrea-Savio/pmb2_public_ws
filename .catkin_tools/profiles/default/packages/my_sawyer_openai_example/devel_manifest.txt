@@ -1,0 +1,5 @@
+openai_examples_projects/my_sawyer_openai_example
+/home/andrea/pmb2_public_ws/devel/.private/my_sawyer_openai_example/cmake.lock /home/andrea/pmb2_public_ws/devel/./cmake.lock
+/home/andrea/pmb2_public_ws/devel/.private/my_sawyer_openai_example/lib/pkgconfig/my_sawyer_openai_example.pc /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/my_sawyer_openai_example.pc
+/home/andrea/pmb2_public_ws/devel/.private/my_sawyer_openai_example/share/my_sawyer_openai_example/cmake/my_sawyer_openai_exampleConfig.cmake /home/andrea/pmb2_public_ws/devel/share/my_sawyer_openai_example/cmake/my_sawyer_openai_exampleConfig.cmake
+/home/andrea/pmb2_public_ws/devel/.private/my_sawyer_openai_example/share/my_sawyer_openai_example/cmake/my_sawyer_openai_exampleConfig-version.cmake /home/andrea/pmb2_public_ws/devel/share/my_sawyer_openai_example/cmake/my_sawyer_openai_exampleConfig-version.cmake

@@ -1,0 +1,1 @@
+/home/andrea/pedsim_ros/devel/.private/spencer_vision_msgs/share/roseus/ros/spencer_vision_msgs/msg/PersonROIs.l

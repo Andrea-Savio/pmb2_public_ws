@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/spencer_vision_msgs/share/roseus/ros/spencer_vision_msgs/manifest.l

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/andrea/pmb2_public_ws/devel/.private/wamv_deep_qlearning/setup.sh

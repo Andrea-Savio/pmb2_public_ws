@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/my_turtlebot2_training/lib/pkgconfig/my_turtlebot2_training.pc

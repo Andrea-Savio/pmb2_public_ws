@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/openai_ros/share/gennodejs/ros/openai_ros/_index.js

@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/social_navigation_layers/lib/python2.7/dist-packages/social_navigation_layers/cfg/__init__.py

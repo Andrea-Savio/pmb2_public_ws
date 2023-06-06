@@ -1,0 +1,1 @@
+/home/andrea/pedsim_ros/devel/.private/spencer_vision_msgs/include/spencer_vision_msgs/PersonImages.h

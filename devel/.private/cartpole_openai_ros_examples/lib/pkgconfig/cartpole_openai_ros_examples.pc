@@ -1,0 +1,8 @@
+prefix=/home/andrea/pmb2_public_ws/devel/.private/cartpole_openai_ros_examples
+
+Name: cartpole_openai_ros_examples
+Description: Description of cartpole_openai_ros_examples
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

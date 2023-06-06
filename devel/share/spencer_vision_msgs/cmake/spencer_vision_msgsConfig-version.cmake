@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/spencer_vision_msgs/share/spencer_vision_msgs/cmake/spencer_vision_msgsConfig-version.cmake

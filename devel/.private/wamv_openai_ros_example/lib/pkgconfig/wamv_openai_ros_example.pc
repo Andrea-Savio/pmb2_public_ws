@@ -1,0 +1,8 @@
+prefix=/home/andrea/pmb2_public_ws/devel/.private/wamv_openai_ros_example
+
+Name: wamv_openai_ros_example
+Description: Description of wamv_openai_ros_example
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/follow_line_tc_pkg/lib/pkgconfig/follow_line_tc_pkg.pc

@@ -1,0 +1,7 @@
+Symlinking /home/andrea/pmb2_public_ws/devel/lib/python2.7/dist-packages/xacro/__init__.py
+Symlinking /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/xacro.pc
+Symlinking /home/andrea/pmb2_public_ws/devel/bin/cmake.lock
+Symlinking /home/andrea/pmb2_public_ws/devel/bin/xacro
+Symlinking /home/andrea/pmb2_public_ws/devel/share/xacro/cmake/xacro-extras.cmake
+Symlinking /home/andrea/pmb2_public_ws/devel/share/xacro/cmake/xacroConfig-version.cmake
+Symlinking /home/andrea/pmb2_public_ws/devel/share/xacro/cmake/xacroConfig.cmake

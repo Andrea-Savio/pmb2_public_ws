@@ -1,0 +1,1 @@
+/home/andrea/pedsim_ros/devel/.private/spencer_human_attribute_msgs/share/common-lisp/ros/spencer_human_attribute_msgs/msg/_package_ScalarAttribute.lisp

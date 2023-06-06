@@ -1,0 +1,4 @@
+/home/andrea/pmb2_public_ws/devel/share/pmb2_training/cmake/pmb2_trainingConfig.cmake 89
+/home/andrea/pmb2_public_ws/devel/share/pmb2_training/cmake/pmb2_trainingConfig-version.cmake 89
+/home/andrea/pmb2_public_ws/devel/./cmake.lock 15062
+/home/andrea/pmb2_public_ws/devel/lib/pkgconfig/pmb2_training.pc 89

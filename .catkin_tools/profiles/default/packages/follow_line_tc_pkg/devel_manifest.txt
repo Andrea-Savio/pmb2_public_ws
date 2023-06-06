@@ -1,0 +1,5 @@
+turtlebot/follow_line_tc_pkg
+/home/andrea/pmb2_public_ws/devel/.private/follow_line_tc_pkg/cmake.lock /home/andrea/pmb2_public_ws/devel/./cmake.lock
+/home/andrea/pmb2_public_ws/devel/.private/follow_line_tc_pkg/lib/pkgconfig/follow_line_tc_pkg.pc /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/follow_line_tc_pkg.pc
+/home/andrea/pmb2_public_ws/devel/.private/follow_line_tc_pkg/share/follow_line_tc_pkg/cmake/follow_line_tc_pkgConfig.cmake /home/andrea/pmb2_public_ws/devel/share/follow_line_tc_pkg/cmake/follow_line_tc_pkgConfig.cmake
+/home/andrea/pmb2_public_ws/devel/.private/follow_line_tc_pkg/share/follow_line_tc_pkg/cmake/follow_line_tc_pkgConfig-version.cmake /home/andrea/pmb2_public_ws/devel/share/follow_line_tc_pkg/cmake/follow_line_tc_pkgConfig-version.cmake

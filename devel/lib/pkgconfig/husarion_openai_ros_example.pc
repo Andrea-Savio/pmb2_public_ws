@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/husarion_openai_ros_example/lib/pkgconfig/husarion_openai_ros_example.pc

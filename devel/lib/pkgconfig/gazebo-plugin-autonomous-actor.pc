@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/gazebo-plugin-autonomous-actor/lib/pkgconfig/gazebo-plugin-autonomous-actor.pc

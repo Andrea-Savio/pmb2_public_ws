@@ -1,0 +1,4 @@
+Symlinking /home/andrea/pedsim_ros/devel/lib/libpedsim_utils.so
+Symlinking /home/andrea/pedsim_ros/devel/lib/pkgconfig/pedsim_utils.pc
+Symlinking /home/andrea/pedsim_ros/devel/share/pedsim_utils/cmake/pedsim_utilsConfig.cmake
+Symlinking /home/andrea/pedsim_ros/devel/share/pedsim_utils/cmake/pedsim_utilsConfig-version.cmake

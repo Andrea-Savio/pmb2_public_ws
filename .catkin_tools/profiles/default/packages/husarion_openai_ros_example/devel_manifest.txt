@@ -1,0 +1,5 @@
+openai_examples_projects/husarion_openai_ros_example
+/home/andrea/pmb2_public_ws/devel/.private/husarion_openai_ros_example/cmake.lock /home/andrea/pmb2_public_ws/devel/./cmake.lock
+/home/andrea/pmb2_public_ws/devel/.private/husarion_openai_ros_example/lib/pkgconfig/husarion_openai_ros_example.pc /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/husarion_openai_ros_example.pc
+/home/andrea/pmb2_public_ws/devel/.private/husarion_openai_ros_example/share/husarion_openai_ros_example/cmake/husarion_openai_ros_exampleConfig.cmake /home/andrea/pmb2_public_ws/devel/share/husarion_openai_ros_example/cmake/husarion_openai_ros_exampleConfig.cmake
+/home/andrea/pmb2_public_ws/devel/.private/husarion_openai_ros_example/share/husarion_openai_ros_example/cmake/husarion_openai_ros_exampleConfig-version.cmake /home/andrea/pmb2_public_ws/devel/share/husarion_openai_ros_example/cmake/husarion_openai_ros_exampleConfig-version.cmake

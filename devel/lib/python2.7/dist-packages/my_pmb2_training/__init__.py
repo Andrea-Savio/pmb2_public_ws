@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/my_pmb2_training/lib/python2.7/dist-packages/my_pmb2_training/__init__.py

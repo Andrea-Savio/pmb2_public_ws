@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/spencer_social_relation_msgs/share/roseus/ros/spencer_social_relation_msgs/msg/SocialActivity.l

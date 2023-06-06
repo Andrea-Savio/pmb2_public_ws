@@ -1,0 +1,1 @@
+/home/andrea/pedsim_ros/devel/.private/spencer_human_attribute_msgs/include/spencer_human_attribute_msgs/CategoricalAttribute.h

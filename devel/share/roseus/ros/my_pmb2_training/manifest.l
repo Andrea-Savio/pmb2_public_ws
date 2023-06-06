@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/my_pmb2_training/share/roseus/ros/my_pmb2_training/manifest.l

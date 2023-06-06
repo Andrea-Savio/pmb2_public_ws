@@ -1,0 +1,14 @@
+Traceback (most recent call last):
+  File "/opt/ros/melodic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py", line 41, in <module>
+    from genmsg import EXT_MSG, EXT_SRV, MsgContext
+ImportError: No module named genmsg
+Traceback (most recent call last):
+  File "/opt/ros/melodic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py", line 41, in <module>
+    from genmsg import EXT_MSG, EXT_SRV, MsgContext
+ImportError: No module named genmsg
+make[2]: *** [CMakeFiles/_gazebo_msgs_generate_messages_check_deps_ContactState] Error 1
+make[1]: *** [CMakeFiles/_gazebo_msgs_generate_messages_check_deps_ContactState.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make[2]: *** [CMakeFiles/_gazebo_msgs_generate_messages_check_deps_GetModelProperties] Error 1
+make[1]: *** [CMakeFiles/_gazebo_msgs_generate_messages_check_deps_GetModelProperties.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/turtlebot_teleop/lib/pkgconfig/turtlebot_teleop.pc

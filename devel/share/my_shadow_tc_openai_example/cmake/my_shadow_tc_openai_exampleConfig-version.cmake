@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/my_shadow_tc_openai_example/share/my_shadow_tc_openai_example/cmake/my_shadow_tc_openai_exampleConfig-version.cmake

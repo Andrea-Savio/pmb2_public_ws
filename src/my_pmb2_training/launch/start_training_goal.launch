@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch>
+    <!-- This version uses the openai_ros environments -->
+    <rosparam command="load" file="$(find my_pmb2_training)/config/my_pmb2_goal_params.yaml" />
+    <!-- Launch the training system -->
+    <node pkg="my_pmb2_training" name="pmb2_goal" type="start_training_goal.py" output="screen"/>
+    <!-- Launch the node for the /scan_raw messages filter to publish filtered scan data to the topic /scan_raw_filtered -->
+    <node pkg="my_pmb2_training" name ="scan_raw_filter" type="scan_raw_filter" output="log"/>
+</launch>

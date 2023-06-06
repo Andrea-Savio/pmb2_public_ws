@@ -1,0 +1,5 @@
+openai_examples_projects/my_moving_cube_pkg
+/home/andrea/pmb2_public_ws/devel/.private/my_moving_cube_pkg/cmake.lock /home/andrea/pmb2_public_ws/devel/./cmake.lock
+/home/andrea/pmb2_public_ws/devel/.private/my_moving_cube_pkg/lib/pkgconfig/my_moving_cube_pkg.pc /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/my_moving_cube_pkg.pc
+/home/andrea/pmb2_public_ws/devel/.private/my_moving_cube_pkg/share/my_moving_cube_pkg/cmake/my_moving_cube_pkgConfig.cmake /home/andrea/pmb2_public_ws/devel/share/my_moving_cube_pkg/cmake/my_moving_cube_pkgConfig.cmake
+/home/andrea/pmb2_public_ws/devel/.private/my_moving_cube_pkg/share/my_moving_cube_pkg/cmake/my_moving_cube_pkgConfig-version.cmake /home/andrea/pmb2_public_ws/devel/share/my_moving_cube_pkg/cmake/my_moving_cube_pkgConfig-version.cmake

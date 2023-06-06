@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/my_hopper_openai_example/share/my_hopper_openai_example/cmake/my_hopper_openai_exampleConfig-version.cmake

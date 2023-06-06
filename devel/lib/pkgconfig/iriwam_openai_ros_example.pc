@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/iriwam_openai_ros_example/lib/pkgconfig/iriwam_openai_ros_example.pc

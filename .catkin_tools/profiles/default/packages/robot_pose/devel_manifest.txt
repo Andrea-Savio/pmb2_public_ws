@@ -1,0 +1,8 @@
+robot_pose
+/home/andrea/pmb2_public_ws/devel/.private/robot_pose/cmake.lock /home/andrea/pmb2_public_ws/devel/./cmake.lock
+/home/andrea/pmb2_public_ws/devel/.private/robot_pose/lib/pkgconfig/robot_pose.pc /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/robot_pose.pc
+/home/andrea/pmb2_public_ws/devel/.private/robot_pose/lib/robot_pose/fake_odom_publisher /home/andrea/pmb2_public_ws/devel/lib/robot_pose/fake_odom_publisher
+/home/andrea/pmb2_public_ws/devel/.private/robot_pose/lib/robot_pose/robot_pose_node /home/andrea/pmb2_public_ws/devel/lib/robot_pose/robot_pose_node
+/home/andrea/pmb2_public_ws/devel/.private/robot_pose/lib/robot_pose/distance_publisher_node /home/andrea/pmb2_public_ws/devel/lib/robot_pose/distance_publisher_node
+/home/andrea/pmb2_public_ws/devel/.private/robot_pose/share/robot_pose/cmake/robot_poseConfig.cmake /home/andrea/pmb2_public_ws/devel/share/robot_pose/cmake/robot_poseConfig.cmake
+/home/andrea/pmb2_public_ws/devel/.private/robot_pose/share/robot_pose/cmake/robot_poseConfig-version.cmake /home/andrea/pmb2_public_ws/devel/share/robot_pose/cmake/robot_poseConfig-version.cmake

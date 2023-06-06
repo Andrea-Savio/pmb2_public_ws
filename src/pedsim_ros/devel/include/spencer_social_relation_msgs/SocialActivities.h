@@ -1,0 +1,1 @@
+/home/andrea/pedsim_ros/devel/.private/spencer_social_relation_msgs/include/spencer_social_relation_msgs/SocialActivities.h

@@ -1,0 +1,10 @@
+my_pmb2_training
+/home/andrea/pmb2_public_ws/devel/.private/my_pmb2_training/cmake.lock /home/andrea/pmb2_public_ws/devel/./cmake.lock
+/home/andrea/pmb2_public_ws/devel/.private/my_pmb2_training/lib/my_pmb2_training/scan_raw_filter /home/andrea/pmb2_public_ws/devel/lib/my_pmb2_training/scan_raw_filter
+/home/andrea/pmb2_public_ws/devel/.private/my_pmb2_training/lib/python2.7/dist-packages/my_pmb2_training/__init__.py /home/andrea/pmb2_public_ws/devel/lib/python2.7/dist-packages/my_pmb2_training/__init__.py
+/home/andrea/pmb2_public_ws/devel/.private/my_pmb2_training/lib/pkgconfig/my_pmb2_training.pc /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/my_pmb2_training.pc
+/home/andrea/pmb2_public_ws/devel/.private/my_pmb2_training/share/my_pmb2_training/cmake/my_pmb2_trainingConfig.cmake /home/andrea/pmb2_public_ws/devel/share/my_pmb2_training/cmake/my_pmb2_trainingConfig.cmake
+/home/andrea/pmb2_public_ws/devel/.private/my_pmb2_training/share/my_pmb2_training/cmake/my_pmb2_training-msg-paths.cmake /home/andrea/pmb2_public_ws/devel/share/my_pmb2_training/cmake/my_pmb2_training-msg-paths.cmake
+/home/andrea/pmb2_public_ws/devel/.private/my_pmb2_training/share/my_pmb2_training/cmake/my_pmb2_training-msg-extras.cmake /home/andrea/pmb2_public_ws/devel/share/my_pmb2_training/cmake/my_pmb2_training-msg-extras.cmake
+/home/andrea/pmb2_public_ws/devel/.private/my_pmb2_training/share/my_pmb2_training/cmake/my_pmb2_trainingConfig-version.cmake /home/andrea/pmb2_public_ws/devel/share/my_pmb2_training/cmake/my_pmb2_trainingConfig-version.cmake
+/home/andrea/pmb2_public_ws/devel/.private/my_pmb2_training/share/roseus/ros/my_pmb2_training/manifest.l /home/andrea/pmb2_public_ws/devel/share/roseus/ros/my_pmb2_training/manifest.l

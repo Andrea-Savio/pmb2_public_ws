@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/my_pmb2_training/share/my_pmb2_training/cmake/my_pmb2_training-msg-paths.cmake

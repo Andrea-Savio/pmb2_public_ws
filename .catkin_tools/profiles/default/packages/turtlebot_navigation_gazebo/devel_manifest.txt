@@ -1,0 +1,5 @@
+turtlebot/turtlebot_navigation_gazebo
+/home/andrea/pmb2_public_ws/devel/.private/turtlebot_navigation_gazebo/cmake.lock /home/andrea/pmb2_public_ws/devel/./cmake.lock
+/home/andrea/pmb2_public_ws/devel/.private/turtlebot_navigation_gazebo/lib/pkgconfig/turtlebot_navigation_gazebo.pc /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/turtlebot_navigation_gazebo.pc
+/home/andrea/pmb2_public_ws/devel/.private/turtlebot_navigation_gazebo/share/turtlebot_navigation_gazebo/cmake/turtlebot_navigation_gazeboConfig.cmake /home/andrea/pmb2_public_ws/devel/share/turtlebot_navigation_gazebo/cmake/turtlebot_navigation_gazeboConfig.cmake
+/home/andrea/pmb2_public_ws/devel/.private/turtlebot_navigation_gazebo/share/turtlebot_navigation_gazebo/cmake/turtlebot_navigation_gazeboConfig-version.cmake /home/andrea/pmb2_public_ws/devel/share/turtlebot_navigation_gazebo/cmake/turtlebot_navigation_gazeboConfig-version.cmake

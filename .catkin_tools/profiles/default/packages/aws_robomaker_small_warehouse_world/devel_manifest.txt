@@ -1,0 +1,5 @@
+aws-robomaker-small-warehouse-world
+/home/andrea/pmb2_public_ws/devel/.private/aws_robomaker_small_warehouse_world/cmake.lock /home/andrea/pmb2_public_ws/devel/./cmake.lock
+/home/andrea/pmb2_public_ws/devel/.private/aws_robomaker_small_warehouse_world/lib/pkgconfig/aws_robomaker_small_warehouse_world.pc /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/aws_robomaker_small_warehouse_world.pc
+/home/andrea/pmb2_public_ws/devel/.private/aws_robomaker_small_warehouse_world/share/aws_robomaker_small_warehouse_world/cmake/aws_robomaker_small_warehouse_worldConfig.cmake /home/andrea/pmb2_public_ws/devel/share/aws_robomaker_small_warehouse_world/cmake/aws_robomaker_small_warehouse_worldConfig.cmake
+/home/andrea/pmb2_public_ws/devel/.private/aws_robomaker_small_warehouse_world/share/aws_robomaker_small_warehouse_world/cmake/aws_robomaker_small_warehouse_worldConfig-version.cmake /home/andrea/pmb2_public_ws/devel/share/aws_robomaker_small_warehouse_world/cmake/aws_robomaker_small_warehouse_worldConfig-version.cmake

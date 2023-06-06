@@ -1,0 +1,1 @@
+/home/andrea/pedsim_ros/devel/.private/spencer_social_relation_msgs/share/spencer_social_relation_msgs/cmake/spencer_social_relation_msgs-msg-extras.cmake

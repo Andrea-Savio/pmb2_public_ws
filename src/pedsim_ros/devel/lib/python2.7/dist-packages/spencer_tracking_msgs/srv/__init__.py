@@ -1,0 +1,1 @@
+/home/andrea/pedsim_ros/devel/.private/spencer_tracking_msgs/lib/python2.7/dist-packages/spencer_tracking_msgs/srv/__init__.py

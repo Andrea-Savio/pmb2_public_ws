@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/andrea/pmb2_public_ws/devel/.private/my_turtlebot3_openai_example/setup.sh

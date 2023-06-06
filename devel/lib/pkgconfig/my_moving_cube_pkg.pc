@@ -1,0 +1,1 @@
+/home/andrea/pmb2_public_ws/devel/.private/my_moving_cube_pkg/lib/pkgconfig/my_moving_cube_pkg.pc

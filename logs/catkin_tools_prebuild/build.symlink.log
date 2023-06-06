@@ -1,0 +1,12 @@
+Linked: (/home/andrea/pmb2_public_ws/devel/.private/catkin_tools_prebuild/cmake.lock, /home/andrea/pmb2_public_ws/devel/./cmake.lock)
+Symlinking /home/andrea/pmb2_public_ws/devel/./local_setup.bash
+Symlinking /home/andrea/pmb2_public_ws/devel/./local_setup.sh
+Symlinking /home/andrea/pmb2_public_ws/devel/./setup.sh
+Symlinking /home/andrea/pmb2_public_ws/devel/./local_setup.zsh
+Symlinking /home/andrea/pmb2_public_ws/devel/./env.sh
+Symlinking /home/andrea/pmb2_public_ws/devel/./_setup_util.py
+Symlinking /home/andrea/pmb2_public_ws/devel/./setup.bash
+Symlinking /home/andrea/pmb2_public_ws/devel/./setup.zsh
+Linked: (/home/andrea/pmb2_public_ws/devel/.private/catkin_tools_prebuild/lib/pkgconfig/catkin_tools_prebuild.pc, /home/andrea/pmb2_public_ws/devel/lib/pkgconfig/catkin_tools_prebuild.pc)
+Linked: (/home/andrea/pmb2_public_ws/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake, /home/andrea/pmb2_public_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake)
+Linked: (/home/andrea/pmb2_public_ws/devel/.private/catkin_tools_prebuild/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake, /home/andrea/pmb2_public_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake)
